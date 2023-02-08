@@ -14,7 +14,7 @@
 }
 
 .body .box{
-  width: 19%;
+  width: 19.5%;
   justify-content: space-between;
   display: inline-block;
   min-height: 150px;
@@ -33,6 +33,15 @@
 
 .body .box p{
   width: 75%;
+}
+
+.body .box #checker{
+  width: 75%;
+  background-color: #000000;
+  color: #FFFFFF;
+  padding-left: 5px;
+  min-height: 150px;
+  height: auto;
 }
 
 .my-melody{
